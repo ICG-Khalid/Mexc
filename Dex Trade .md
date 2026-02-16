@@ -31,7 +31,7 @@ Trade across 6 major blockchain networks with support for the most popular DEXes
 
 Select your desired chain from the dropdown in the top right corner. All three tabs (Wallets, Trading, Monitor) will automatically filter to show only data for the selected chain.
 
-![Screenshot 1: Multi-Chain Interface](placeholder-screenshot-1.png)
+![Screenshot 1: Multi-Chain Interface](https://raw.githubusercontent.com/ICG-Khalid/Mexc/a642db0595bd768f0fff7ba5cab9ba2b62b75b26/Screenshot%201.png)
 
 ---
 
@@ -59,7 +59,7 @@ Distribute native tokens or trading tokens from master wallet to multiple derive
 #### 📥 Fund Collection
 Collect funds from multiple derived wallets back to the master wallet. Essential for consolidating profits.
 
-![Screenshot 2: Wallet Management Interface](placeholder-screenshot-2.png)
+![Screenshot 2: Wallet Management Interface](https://raw.githubusercontent.com/ICG-Khalid/Mexc/a642db0595bd768f0fff7ba5cab9ba2b62b75b26/Screenshot%202.png)
 
 ### Wallet Operations
 
@@ -96,7 +96,7 @@ Choose which wallets to use and which DEXes to trade on. You can distribute trad
 #### 5. Start Trading
 Save your configuration and click Start. The bot will execute trades according to your parameters until the total target is reached or you stop it manually.
 
-![Screenshot 3: Trading Configuration](placeholder-screenshot-3.png)
+![Screenshot 3: Trading Configuration](https://raw.githubusercontent.com/ICG-Khalid/Mexc/a642db0595bd768f0fff7ba5cab9ba2b62b75b26/Screenshot%203.png)
 
 ### Smart Execution Flow
 
@@ -146,7 +146,7 @@ Trades currently being processed on-chain.
 #### 📊 Success Rate
 Percentage of successful trades. Aim for 95%+ success rate.
 
-![Screenshot 4: Monitor Statistics](placeholder-screenshot-4.png)
+![Screenshot 4: Monitor Statistics](https://raw.githubusercontent.com/ICG-Khalid/Mexc/a642db0595bd768f0fff7ba5cab9ba2b62b75b26/Screenshot%204.png)
 
 ### Trade History
 
@@ -160,7 +160,7 @@ View detailed history of all trades with the following information:
 - **Status:** Success, Failed, or Pending
 - **Transaction Hash:** Clickable link to blockchain explorer
 
-![Screenshot 5: Trade History](placeholder-screenshot-5.png)
+![Screenshot 5: Trade History](https://raw.githubusercontent.com/ICG-Khalid/Mexc/a642db0595bd768f0fff7ba5cab9ba2b62b75b26/Screenshot%205.png)
 
 > 🔄 **Auto-Refresh**  
 > The Monitor tab automatically refreshes every 10 seconds to show the latest trade data and statistics.
@@ -211,3 +211,4 @@ All API communication uses HTTPS with proper authentication. Transaction signing
 ---
 
 © 2026 ICG Trading. All rights reserved. | [clients.icg.io](https://clients.icg.io/)
+
